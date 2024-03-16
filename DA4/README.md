@@ -35,3 +35,6 @@ Required Structure of the folder
 - Might require installing packages like 
   - !pip install datasets accelerate
 - run the line `!python task2.py`
+
+Author Anish Ghiya
+Github @anishsghiya
